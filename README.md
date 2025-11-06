@@ -4,7 +4,7 @@ This demo is based on Apple's Sample Code [AVCam](https://developer.apple.com/do
 
 It was augmented to demonstrate the usage of https://github.com/contentauth/c2pa-ios/ 
 
-When a image or video is captured, it will create a minimal manifest stating the creation of the asset.
+When a image or video is captured, it will create and embed a minimal manifest stating the creation of the asset.
 
 Please note, that it currently uses invalid demo keys for its purpose.
 
@@ -22,8 +22,8 @@ https://check.proofmode.org
 The modifications were authored by
 
 Benjamin Erhart, [Die Netzarchitekten e.U.](https://die.netzarchitekten.com)
-
 for [Guardian Project](https://guardianproject.info).
 
 Modifications licensed under [MIT](https://opensource.org/license/mit).
+
 Original code licensed under special [Apple license](LICENSE.txt).
